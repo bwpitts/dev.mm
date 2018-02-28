@@ -1739,7 +1739,7 @@ class PHPMailer
         // Backwards compatibility for renamed language codes
         $renamed_langcodes = array(
             'br' => 'pt_br',
-            'cz' => 'cs',
+            'cz' => 'css',
             'dk' => 'da',
             'no' => 'nb',
             'se' => 'sv',
